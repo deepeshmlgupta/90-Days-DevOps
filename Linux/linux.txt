@@ -69,10 +69,10 @@ Linux Commands
 
 
 1. Umask
-2. ls -l
-3. chmod
-4. chown command
-5. chgrp command
+2. ls -l : get more details about files
+3. chmod : change the permission's of the files
+4. chown command : Change owner
+5. chgrp command : change group
 
 
 - compression command
@@ -109,7 +109,7 @@ Linux Commands
 
 
 1. route 
-2. nmap 
+2. nmap: used to get information of a particular link
 3. Wget 
 4. Watch 
 5. iptables 
